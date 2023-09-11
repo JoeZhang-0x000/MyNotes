@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 20,
+  "textFontFamily": "仿宋,Times New Roman",
+  "enabledCssSnippets": [
+    "theme",
+    "img-grid",
+    "custom",
+    "img"
+  ],
+  "cssTheme": ""
+}
