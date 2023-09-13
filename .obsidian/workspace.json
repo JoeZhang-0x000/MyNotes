@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9e29f8b307f153ae",
+        "id": "34892ba2224aed57",
         "type": "tabs",
         "children": [
           {
-            "id": "82717a2d37b085a8",
+            "id": "93a237c86735aed2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "果壳/矩阵分析/课时二.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "果壳/矩阵分析/课时二.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "果壳/矩阵分析/课时二.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "果壳/矩阵分析/课时二.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,18 +163,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b974bdc9d06a8dd",
+  "active": "93a237c86735aed2",
   "lastOpenFiles": [
+    "果壳/矩阵分析/课时二.md",
+    "果壳/矩阵分析",
+    "果壳/卜算/课时一.md",
+    "果壳/卜算",
+    "果壳/数值分析",
+    "果壳/PRML/课时一.md",
+    "果壳/algorithm/基础数据结构.md",
+    "果壳/选课前准备.md",
     "PRML/Untitled.md",
-    "PRML/课时一.md",
-    "algorithm/基础数据结构.md",
     "读书/读书规划.md",
-    "PRML",
+    "果壳/PRML",
     "diary/diary.md",
-    "algorithm",
+    "果壳/algorithm",
     "炼丹/PINN日志/论文进展/暑期小论文1.md",
     "读书/Bryant, 2003.md",
-    "果壳/选课前准备.md",
     "炼丹/PINN日志/实验日志/log-2023-07-05.md",
     "炼丹/PINN日志/实验日志/log-2023-06-11.md",
     "炼丹/PINN日志/实验日志/log-2023-06-09.md",
@@ -193,16 +207,11 @@
     "炼丹/PINN日志/实验日志/log-2023-07-02.md",
     "炼丹/PINN日志/实验日志/log-2023-07-01.md",
     "炼丹/PINN日志/实验日志/log-2023-06-20.md",
-    "炼丹/PINN日志/实验日志/log-2023-06-15.md",
-    "炼丹/PINN日志/实验日志/log-2023-06-10.md",
     "Attachments/imgs/t 1.png",
     "[[Attachments]]",
     "读书",
     "读文献/数学杂类",
-    "Templates",
     "读文献/频率准则/Untitled.canvas",
-    "读文献/采样方法",
-    "读文献/PINN前沿",
     "炼丹/PINN日志/Untitled.canvas",
     "Untitled.canvas"
   ]
