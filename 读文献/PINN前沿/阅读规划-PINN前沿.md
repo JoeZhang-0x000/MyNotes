@@ -3,3 +3,5 @@
 - [ ] [[Chang Yan et al.(2023)]]
 - [ ] [[Linlin Zhong et al. (2023)]]
 - [ ] [[Lei Yuan et al. (2022,jcp)]]
+- [ ] [[Zanardi et al. (2023, Nature Scientific Reports)]]
+- [ ] [[Vilar et al. (2023, Science Advances)]]
