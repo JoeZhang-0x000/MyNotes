@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01a6b4d78a891067",
+        "id": "233d651bbae6b43c",
         "type": "tabs",
         "children": [
           {
-            "id": "8d68f15a02c26604",
+            "id": "9dc149cb0d2c129a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "果壳/自然辩证法/课时一.md",
+                "file": "果壳/Academic Writing/课时一.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "果壳/自然辩证法/课时一.md",
+            "file": "果壳/Academic Writing/课时一.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "果壳/自然辩证法/课时一.md",
+            "file": "果壳/Academic Writing/课时一.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "果壳/自然辩证法/课时一.md"
+            "file": "果壳/Academic Writing/课时一.md"
           }
         }
       },
@@ -140,10 +140,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d68f15a02c26604",
+  "active": "9dc149cb0d2c129a",
   "lastOpenFiles": [
-    "果壳/选课前准备.md",
+    "果壳/Academic Writing/课时一.md",
+    "果壳/Academic Writing",
     "果壳/自然辩证法/课时一.md",
+    "果壳/选课前准备.md",
     "果壳/自然辩证法",
     "果壳/矩阵分析/课时二.md"
   ]
