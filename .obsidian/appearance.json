@@ -1,13 +1,13 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 18,
-  "textFontFamily": "宋体,Times New Roman",
+  "textFontFamily": "Bookerly,霞鹜文楷",
   "enabledCssSnippets": [
-    "theme",
     "img-grid",
     "custom",
     "img"
   ],
-  "cssTheme": ""
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": ""
 }

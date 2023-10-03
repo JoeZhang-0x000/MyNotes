@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "94ff091ab893b604",
+        "id": "5b3e7f27e4fac6ac",
         "type": "tabs",
         "children": [
           {
-            "id": "59ca5cab528a66a8",
+            "id": "fbd534967e75a986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读文献/PINN前沿/略读.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4908fb7b213aad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读文献/PINN前沿/Sifan Wang (2021, jcp).md",
+                "file": "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,26 +59,19 @@
             }
           },
           {
-            "id": "aa257ef27553a393",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c6afd9f11fdc219",
+            "id": "0ab1ce0723c46932",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d9980ebd529fe111",
@@ -114,118 +93,70 @@
             }
           },
           {
-            "id": "b627fdff60a60a9a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "读文献/PINN前沿/Sifan Wang (2021, jcp).md"
-              }
-            }
-          },
-          {
-            "id": "35b4fa6fd164c4c8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "读文献/PINN前沿/Sifan Wang (2021, jcp).md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bb9b73f8a871b321",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "读文献/PINN前沿/Sifan Wang (2021, jcp).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "5b974bdc9d06a8dd",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "a40977c71420a433",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "f4908fb7b213aad0",
+  "active": "fbd534967e75a986",
   "lastOpenFiles": [
     "读文献/PINN前沿/略读.md",
+    "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
+    "读文献/可能用到的的文献.md",
+    "读文献/阅读规划.md",
+    "读文献/阅读规划-总.md",
+    "炼丹/PINN日志/论文进展/暑期小论文1.md",
+    "炼丹/PINN日志/论文进展/小论文方程主干判断.md",
+    "果壳/选课前准备.md",
+    "果壳/algorithm/基础数据结构.md",
+    "果壳/Academic Writing/课时一.md",
+    "读文献/PINN前沿/精读.md",
     "读文献/PINN前沿/Christopher J. Arthurs (2021, jcp).md",
-    "读文献/PINN前沿/Sifan Wang (2021, jcp).md",
-    "读文献/PINN前沿/YongJi Wong (2023, arxiv).md",
     "读文献/PINN前沿/Lei Yuan et al. (2022,jcp).md",
-    "读文献/PINN前沿/Xu Shengfeng et al.(2023).md",
-    "读文献/PINN前沿/Yao Huang et al.(2022).md",
-    "炼丹/PINN日志/log_old.md",
+    "读文献/PINN前沿/😊.md",
+    "炼丹/drafts/论文提纲.md",
+    "炼丹/drafts/流体力学.md",
+    "CFD/感悟.md",
+    "读文献/采样方法/阅读规划-采样方法.md",
     "读文献/数学杂类/Zuria et al.(2016).md",
-    "炼丹/PINN日志/实验日志/log-2023-06-25.md",
-    "炼丹/PINN日志/实验日志/log-2023-06-23.md",
-    "炼丹/PINN日志/log_new.md",
+    "炼丹/PINN日志/实验日志/log-2023-07-11.md",
+    "读文献/数学杂类/阅读规划-数学杂类.md",
+    "读文献/PINN前沿/Yao Huang et al.(2022).md",
+    "读文献/PINN前沿/Sifan Wang (2021, jcp).md",
+    "读文献/PINN前沿/Vilar et al. (2023, Science Advances).md",
+    "读文献/PINN前沿/YongJi Wong (2023, arxiv).md",
+    "读文献/频率准则/Xu et al.(2023).md",
+    "Attachments/imgs/Pasted image 20231003104301.png",
+    "果壳/Academic Writing",
     "Attachments/imgs/Pasted image 20231002210419.png",
     "Attachments/imgs/Pasted image 20231002190828.png",
     "Attachments/imgs/Pasted image 20231002165710.png",
-    "炼丹/PINN日志/实验日志/log-2023-06-20.md",
-    "炼丹/PINN日志/实验日志/log-2023-07-01.md",
-    "炼丹/PINN日志/实验日志/log-2023-07-04.md",
-    "炼丹/PINN日志/实验日志/log-2023-06-09.md",
-    "读书/Byrant, 2003 习题.md",
-    "读文献/数学杂类/阅读规划-数学杂类.md",
-    "读文献/PINN前沿/精读.md",
     "读文献/略读",
-    "读书/Hilary, 2020.md",
     "Attachments/imgs/Pasted image 20231002102828.png",
-    "读书/读书规划.md",
-    "读文献/频率准则/神经网络的简单偏好.md",
-    "读文献/采样方法/阅读规划-采样方法.md",
-    "读书/Bryant, 2003.md",
-    "果壳/PRML/判别式分类器.md",
     "Attachments/imgs/Pasted image 20230927174612.png",
     "Attachments/imgs/Pasted image 20230927170410.png",
     "Attachments/imgs/Pasted image 20230927170313.png",
     "Attachments/imgs/Pasted image 20230927165410.png",
     "Attachments/imgs/Pasted image 20230927164537.png",
-    "Attachments/imgs/Pasted image 20230927163454.png",
-    "果壳/PRML/课时一.md",
     "果壳/自然辩证法",
     "果壳/矩阵分析",
     "果壳/卜算",
@@ -234,7 +165,6 @@
     "果壳/algorithm",
     "果壳",
     "炼丹/PINN日志/论文进展",
-    "[[Attachments]]",
     "读文献/频率准则/Untitled.canvas",
     "炼丹/PINN日志/Untitled.canvas",
     "Untitled.canvas"
