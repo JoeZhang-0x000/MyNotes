@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b3e7f27e4fac6ac",
+        "id": "85aaced9be65955c",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd534967e75a986",
+            "id": "b021b0a2c250ceb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "tag:#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +136,63 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md"
-              }
+              "state": {}
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "31bb0f25a3890aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91e055e41965ce2d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.09124178056254,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 1,
+                  "repelStrength": 0,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 2.219794582183875,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "cd38fb500b652966",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,37 +201,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbd534967e75a986",
+  "active": "b021b0a2c250ceb8",
   "lastOpenFiles": [
+    "读文献/PINN前沿/Remco van der Meer (2020, jcam).md",
+    "Attachments/imgs/Pasted image 20231004162909.png",
+    "Attachments/imgs/Pasted image 20231004162438.png",
+    "Attachments/imgs/Pasted image 20231004162344.png",
     "读文献/PINN前沿/略读.md",
-    "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
     "读文献/可能用到的的文献.md",
-    "读文献/阅读规划.md",
-    "读文献/阅读规划-总.md",
-    "炼丹/PINN日志/论文进展/暑期小论文1.md",
-    "炼丹/PINN日志/论文进展/小论文方程主干判断.md",
-    "果壳/选课前准备.md",
-    "果壳/algorithm/基础数据结构.md",
-    "果壳/Academic Writing/课时一.md",
+    "读文献/PINN前沿/Untitled.md",
     "读文献/PINN前沿/精读.md",
-    "读文献/PINN前沿/Christopher J. Arthurs (2021, jcp).md",
     "读文献/PINN前沿/Lei Yuan et al. (2022,jcp).md",
-    "读文献/PINN前沿/😊.md",
-    "炼丹/drafts/论文提纲.md",
-    "炼丹/drafts/流体力学.md",
-    "CFD/感悟.md",
-    "读文献/采样方法/阅读规划-采样方法.md",
-    "读文献/数学杂类/Zuria et al.(2016).md",
-    "炼丹/PINN日志/实验日志/log-2023-07-11.md",
-    "读文献/数学杂类/阅读规划-数学杂类.md",
+    "读文献/PINN前沿/Vilar et al. (2023, Science Advances).md",
+    "读文献/PINN前沿/Xu Shengfeng et al.(2023).md",
+    "读文献/PINN前沿/YongJi Wong (2023, arxiv).md",
+    "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
     "读文献/PINN前沿/Yao Huang et al.(2022).md",
     "读文献/PINN前沿/Sifan Wang (2021, jcp).md",
-    "读文献/PINN前沿/Vilar et al. (2023, Science Advances).md",
-    "读文献/PINN前沿/YongJi Wong (2023, arxiv).md",
-    "读文献/频率准则/Xu et al.(2023).md",
+    "读文献/PINN前沿/Zanardi et al. (2023, Nature Scientific Reports).md",
+    "读文献/阅读规划.md",
+    "diary/2023-06-11.md",
+    "diary/diary.md",
+    "2023-10-04.md",
+    "读文献/PINN前沿/Christopher J. Arthurs (2021, jcp).md",
+    "读文献/数学杂类/阅读规划-数学杂类.md",
+    "读书/Hilary, 2020.md",
+    "读书/Byrant, 2003 习题.md",
+    "读书/Bryant, 2003.md",
+    "读书/读书规划.md",
+    "读文献/频率准则/神经网络的简单偏好.md",
+    "读文献/频率准则/阅读规划-频率准则.md",
+    "素材",
     "Attachments/imgs/Pasted image 20231003104301.png",
     "果壳/Academic Writing",
     "Attachments/imgs/Pasted image 20231002210419.png",
@@ -203,9 +245,6 @@
     "Attachments/imgs/Pasted image 20231002102828.png",
     "Attachments/imgs/Pasted image 20230927174612.png",
     "Attachments/imgs/Pasted image 20230927170410.png",
-    "Attachments/imgs/Pasted image 20230927170313.png",
-    "Attachments/imgs/Pasted image 20230927165410.png",
-    "Attachments/imgs/Pasted image 20230927164537.png",
     "果壳/自然辩证法",
     "果壳/矩阵分析",
     "果壳/卜算",
@@ -213,7 +252,6 @@
     "果壳/PRML",
     "果壳/algorithm",
     "果壳",
-    "炼丹/PINN日志/论文进展",
     "读文献/频率准则/Untitled.canvas",
     "炼丹/PINN日志/Untitled.canvas",
     "Untitled.canvas"

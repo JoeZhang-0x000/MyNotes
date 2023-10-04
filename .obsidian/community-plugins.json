@@ -1,7 +1,8 @@
 [
   "quick-latex",
-  "table-extended",
   "oz-clear-unused-images",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "table-editor-obsidian",
+  "emoji-shortcodes"
 ]

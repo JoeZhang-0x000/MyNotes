@@ -9,5 +9,6 @@
     "img"
   ],
   "cssTheme": "Blue Topaz",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "translucency": false
 }

@@ -140,32 +140,30 @@ The only way is to check current usage in your filed in recent 5 years.
 - 一般现在时，强调这件事已经成为一种公知或者已经被证明了；
 - 一般过去时，只强调这件事就发生过；
 例如，
-```
-They found that the pressure increased as the temperature rose.
+>They found that the pressure increased as the temperature rose.
 They found that the pressure increases as the temperature rises. 
-```
+
 前者只是说他们发现了压力随着温度升高而增大(可能只是在某次实验中这样，并没有被证明具有普适性)，后者则是暗含，经过了大量的实验，他们发现了一个普遍的规律，即压力随着温度升高而增大，并且这种规律可能已经被广泛的认可了。
 #### Past simple vs present perfect
 一般过去时和现在完成时的主要区别是：
 - 一般过去时，这件事情发生过；
 - 现在完成时，这件事情发生过，并且影响可能持续到现在，更加强调影响；
 例如，
-```
-Little attention has been paid to the selection of an alternative biocompatible material.
-```
+>Little attention has been paid to the selection of an alternative biocompatible material.
+
 这里使用现在完成时，当时(几年前)很少有人注意到xxx，并且直到现在还没有解决这个问题，暗指了本文作者要研究xxx。
-```
-Little attention was paid to the selection of an alternative biocompatible material.
-```
+>Little attention was paid to the selection of an alternative biocompatible material.
+
 这里使用一般过去时，表明当时(几年前)很少有人注意到xxx，但是可能从那时起，人们就开始关注这个问题了，甚至于可能现在已经有人解决了这个问题。
 
 #### Notices
-`Tense changes are always meaningful, and always signal a chance in the function of the information, so DON'T choose or change tense randomly.`
+>Tense changes are always meaningful, and always signal a chance in the function of the information, so DON'T choose or change tense randomly.
 
 需要根据领域内最近的已经发表的期刊，模仿他们的叙述方式；如果你是该领域大佬的话，那你不需要模仿，因为其他人会模仿你。
 ### Linking sentence
-`The gap between sentences is a dangerous space.`
-`Your job as a writer is to close the gap as tightly as possible, so that readers can effortlessly connect one piece of informantion to the next.`
+>The gap between sentences is a dangerous space.
+>Your job as a writer is to close the gap as tightly as possible, so that readers can effortlessly connect one piece of information to the next.
+
 很多时候读者是没有那么充沛的时间去仔细的研读我们的文章的，尤其是审稿人，因此我们需要做到的就是尽量不要让他们产生阅读障碍。作为一个作者，我们对于某个小方向可能是专家，但是我们的读者可能并不是，他是难以跟上我们的节奏的。所以我们务必要把握好文章的句子与句子之间的关联，段落与段落之间的承接。
 
 原文作者在这里给出了四种方式去连接上下文：
@@ -236,21 +234,22 @@ This result was statistically significant and is in line with results in previou
 	- as for
 	- turning now to
 ### Passive and Active choices
-``Science writing has traditionally favoured the passive, perhaps because it seems more objective, but this is changing in some fields and in some journals.``
+>Science writing has traditionally favoured the passive, perhaps because it seems more objective, but this is changing in some fields and in some journals.
+
 一般来说，尽量使用非人的主格，例如This paper is organized... , It is known that... .这样显得客观一些。
 
 ### Paragraphing
-``Good paragraphing is key to text planning, and good text planning is essential for fast, effective text production.``
+>Good paragraphing is key to text planning, and good text planning is essential for fast, effective text production.
 
-``The other sentences (follow the center sentence) then discuss that topic, describe it, define it in more detail, develop it, give examples of it, rephrase it, explain it, etc. ``
+>The other sentences (follow the center sentence) then discuss that topic, describe it, define it in more detail, develop it, give examples of it, rephrase it, explain it, etc. 
 
 读者很多时候阅读文章是跳读的，这时候他们会比较关注段落的第一句话，通常来说就是段落的中心句。余下的内容应当是对中心句的修饰，补充，说明。
 
 一个好的段落不应该过长或者过短。过长可能是因为你在一个段落中涵盖了太多的观点，应该拆分成多个段落；过短可能是因为你的段落中只是在报菜名，并没有展开讲。这两种情况都会导致not reader-friendly and confusing.
 
-一般而言，一篇学术论文的摘要部分的每一段大概是150-170单词。很少有超过230个或者低于80个的。关于每一段应该写多少单词，具体还是要follow your target journal.
+一般而言，一篇学术论文的引言部分的每一段大概是150-170单词。很少有超过230个或者低于80个的。关于每一段应该写多少单词，具体还是要follow your target journal.
 
-原文的作者给出了一下的一些方法去完成摘要的分段
+原文的作者给出了一下的一些方法去完成引言的分段
 - List each topic/concept/idea that you want to discuss and then order them logically for the reader.
 - List the bullet points you want to include for each topic, and then order the bullet points logically for the reader.
 - Consider how many paragraphs you will need for each topic.
