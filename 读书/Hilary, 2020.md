@@ -2,7 +2,7 @@
 aliases:
   - "Title: Science research writing: for native and non-native speakers of English"
 ---
-# Unit 1: How to write a introduction
+# How to write a introduction
 ## Bullet Points of Structures and Styles
 Key: Follow the lead of your target journals.
 What is the proper usages of tense, passive or active, paragraphing, etc?
@@ -270,3 +270,123 @@ This result was statistically significant and is in line with results in previou
 | To address this question, … | To confirm…, we… |
 | Turning now to… | We argue that… |
 | When we consider… | With regard to… |
+# Methods
+## key idea
+一切都是为了读者服务。尽量减少读者的阅读障碍的同时尽量让读者觉得读你的文章不是在waste time. 
+## Some details
+1. 是否应该介绍实验设计中某些操作的理由？
+
+>you need to communicate not only This is exactly what I 
+did/used but also I had good reasons for making those decisions.
+
+告诉读者，这样设计的理由，否则读者可能会难以接受你的想法。
+
+2. 描述过程时候需要注意措辞
+
+> then and next communicate the order of events, but they
+may not give the reader enough information about the sequence to replicate it exactly. 
+
+在阐述方法的细节时，尽量更加准确的语言，例如 (prior to, until at xxx point)，使用then, next等过于口头。
+
+3. 是否应该评价自己的实验过程？
+
+>To this end, it is important to present yourself as a 
+competent and careful researcher whose conclusions are therefore likely to be reliable. 
+
+阐述方法的细节时，可以适当的使用一些词汇去正面的评价自己的实验，增加结果的可靠性，同时会让读者更加认可你的结论，激起读者继续探究的欲望。
+
+4. 实验设计或者方法中是否可以有瑕疵，并且瑕疵是否应该指出？
+
+>Science does not truly exist until it is published, and
+delaying publication until the project is perfect is neither realistic nor advisable. You need to stop at a certain point and write the paper, including your subsequent awareness of potential limitations or difficulties. 
+
+
+精益求精是好的，但是需要适可而止，否则文章永远也发不出来。同时，适当的点出文章的瑕疵有两个好处：
+	1. 将瑕疵放到future work中又可以激起读者的思考，同时可以继续水论文 (bushi)；
+	2. 主动表露瑕疵是一种自知之明。如果文章中只谈优点，读者很可能认为你==根本没有发现自己的瑕疵==，从而认为你很low。
+
+5. 该在哪里指出文章的不足？
+
+> It is more effective to mention them first 
+where they occur — in this case, in the Methods section — and then refer to them again at the end of the article. 
+
+==不要将瑕疵 (first time) 放在最后提出==。从读者的阅读体验来说，这样可能会让读者对你的工作产生质疑。应当在方法被提及时候就指出设计的不足。
+
+## General model
+![[Pasted image 20231007201336.png]]
+## Useful Words and Phrases
+### Give the sources
+![[Pasted image 20231007202226.png]]
+### Supply background information
+![[Pasted image 20231007202420.png]]
+### Provide specific and precise details
+#### Verbs
+一般而言，方法中可能出现的动词有三类:
+	1. The first contains general academic research verbs such as attempt, consider, conduct, determine, investigate, report, verify. 
+	2. The second category contains verbs which are highly specific to a particular discipline, for example anneal, clone, dissect, ionise, infuse.
+	3. technical verbs used in a wide range of disciplines to specify what was done or used.
+
+就第三类而言，以下是常用的表达:
+![[Pasted image 20231007213919.png]]
+#### Sequence language
+![[Pasted image 20231007203547.png]]![[Pasted image 20231007203554.png]]![[Pasted image 20231007203602.png]]![[Pasted image 20231007203609.png]]![[Pasted image 20231007203617.png]]![[Pasted image 20231007203624.png]]![[Pasted image 20231007203632.png]]![[Pasted image 20231007203639.png]]
+#### Justify choices
+![[Pasted image 20231007203755.png]]
+
+#### Indicate that appropriate care was taken
+![[Pasted image 20231007203857.png]]
+
+#### Compare with others
+![[Pasted image 20231007204006.png]]
+![[Pasted image 20231007204019.png]]
+![[Pasted image 20231007204031.png]]
+
+![[Pasted image 20231007204040.png]]
+#### Indicate where problems occurred
+![[Pasted image 20231007204130.png]]
+## Language and writing skills
+### Verb tense and the agentless passive
+在methods节中常用==被动==！虽然有些文章也会用 we investigated/ we concluded .
+但是被动也容易造成歧义，特别是在agentless passive (没有施加动作的物体)的情况下。
+表格中总结了一些常用的表述方法：
+![[Pasted image 20231007205153.png]]
+![[Pasted image 20231007205220.png]]
+### Prepositions
+介词或者系词对于句子的意义影响很大，这里主要是说正确的使用介词。例如，a was substituted by b means a replaced b, while x was substituted with b means b replaced a.
+这里给出了五条建议:
+	1.  Start by paying more attention to prepositions
+	2. Pay attention to the verb + preposition clusters used to describe processes in your target research articles
+	3. Consider replacing prepositions with words that make the meaning clear. 这里主要是说尽量使用更加准确的介词, 
+	   #eg With the increase in computer processing speeds, the time taken for simulations has reduced. 这里到底是说伴随着xxx, yyy怎么怎么; 还是说因为xxx, yyy怎么怎么。
+	4. Look for patterns in preposition use. 很多论文中使用USING比WITH多;BY后面经常跟的是-ING. 这类管用的介词模式需要多看，多积累。
+	5. Avoid strings of prepositional phrases. 
+	   #eg He gave a lecture about liver cancer at the hospital last January. 此处到底关于什么的讲座，是liver caner 还是 liver cancer at the hospital 无法得知。
+### Using A/AN (indefinite article), Ø (zero article), and THE (definite article)
+冠词的使用，不仅仅是为了满足语法的正确性，更重要是为了减少歧义。
+单数可数名词前面一定要加冠词 (a/the)。
+#### Using a/an 
+1. Use a/an when you mention a singular countable noun for the first time . 
+   #eg I bought a cheese sandwich and an apple. The sandwich was OK but the apple had a little worm in it.
+2. Use a/an when it doesn’t matter, or you don’t know, or the reader doesn’t know which thing/person you mean.  
+   #eg Bring me a pen please. (It doesn’t matter which pen) 
+   #eg She works in a bank. (I/you don’t know which bank) 
+   #eg  The subject spoke to an interviewer. (I know which one but you don’t)
+3. Use a/an to make a general statement about a countable noun in the singular.
+   #eg A semiconductor can conduct electricity under certain conditions.
+#### Using $\emptyset$
+1. Use Ø to make a general statement about a countable noun in the plural;
+   #eg Ø Semiconductors can conduct electricity under certain conditions.
+2. Use Ø to make a general statement about an uncountable noun;
+   #eg Ø Pollution is generally the result of human activity.
+3. Use Ø when you mention a plural countable noun for the first time;
+   #eg We conducted Ø DNA arrays on Ø silicon chips.
+4. Use Ø for a fully uncountable noun, or a noun in its uncountable meaning;
+   #eg These acids may undergo Ø oxidation.
+#### Using the
+1. Use the when there is really only one possibility;
+   #eg The opening was located in the center of each mesh.
+2. Use the when it is definitely known to the reader;
+   #eg The cheese sandwich was very good. (The cheese sandwich I mentioned earlier)
+3. Use the when it is obvious to the reader, even if the thing or person has not been mentioned;
+   #eg I bought a new computer but the keyboard was faulty.
+

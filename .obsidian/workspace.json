@@ -11,8 +11,13 @@
             "id": "b021b0a2c250ceb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "读书/Hilary, 2020.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#idea",
+                "query": "tag:#eg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "读书/Hilary, 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "读书/Hilary, 2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "读书/Hilary, 2020.md"
+              }
             }
           }
         ],
@@ -152,6 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "读书/Hilary, 2020.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,8 +197,19 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2b7f0465988febe2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读书/Hilary, 2020.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,10 +228,19 @@
   },
   "active": "b021b0a2c250ceb8",
   "lastOpenFiles": [
+    "Attachments/imgs/Pasted image 20231007213919.png",
+    "Attachments/imgs/Pasted image 20231007202420.png",
+    "读书/Hilary, 2020.md",
+    "Attachments/imgs/Pasted image 20231007201336.png",
+    "Attachments/imgs/Pasted image 20231007205351.png",
+    "Attachments/imgs/Pasted image 20231007205220.png",
+    "Attachments/imgs/Pasted image 20231007205153.png",
+    "Attachments/imgs/Pasted image 20231007204130.png",
+    "Attachments/imgs/Pasted image 20231007204040.png",
+    "Attachments/imgs/Pasted image 20231007204031.png",
+    "Attachments/imgs/Pasted image 20231007204019.png",
+    "Attachments/imgs/Pasted image 20231007204006.png",
     "读文献/PINN前沿/Remco van der Meer (2020, jcam).md",
-    "Attachments/imgs/Pasted image 20231004162909.png",
-    "Attachments/imgs/Pasted image 20231004162438.png",
-    "Attachments/imgs/Pasted image 20231004162344.png",
     "读文献/PINN前沿/略读.md",
     "读文献/可能用到的的文献.md",
     "读文献/PINN前沿/Untitled.md",
@@ -229,22 +259,14 @@
     "2023-10-04.md",
     "读文献/PINN前沿/Christopher J. Arthurs (2021, jcp).md",
     "读文献/数学杂类/阅读规划-数学杂类.md",
-    "读书/Hilary, 2020.md",
     "读书/Byrant, 2003 习题.md",
     "读书/Bryant, 2003.md",
     "读书/读书规划.md",
     "读文献/频率准则/神经网络的简单偏好.md",
     "读文献/频率准则/阅读规划-频率准则.md",
     "素材",
-    "Attachments/imgs/Pasted image 20231003104301.png",
     "果壳/Academic Writing",
-    "Attachments/imgs/Pasted image 20231002210419.png",
-    "Attachments/imgs/Pasted image 20231002190828.png",
-    "Attachments/imgs/Pasted image 20231002165710.png",
     "读文献/略读",
-    "Attachments/imgs/Pasted image 20231002102828.png",
-    "Attachments/imgs/Pasted image 20230927174612.png",
-    "Attachments/imgs/Pasted image 20230927170410.png",
     "果壳/自然辩证法",
     "果壳/矩阵分析",
     "果壳/卜算",
