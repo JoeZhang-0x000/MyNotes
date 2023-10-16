@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85aaced9be65955c",
+        "id": "016d6ef41177c165",
         "type": "tabs",
         "children": [
           {
-            "id": "b021b0a2c250ceb8",
+            "id": "83abc7efdc3e41f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/Hilary, 2020.md",
+                "file": "读文献/PINN前沿/略读.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书/Hilary, 2020.md",
+                "file": "读文献/PINN前沿/略读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书/Hilary, 2020.md",
+                "file": "读文献/PINN前沿/略读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/Hilary, 2020.md"
+                "file": "读文献/PINN前沿/略读.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "读书/Hilary, 2020.md",
+                "file": "读文献/PINN前沿/略读.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/Hilary, 2020.md"
+                "file": "读文献/PINN前沿/略读.md"
               }
             }
           }
@@ -226,22 +226,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b021b0a2c250ceb8",
+  "active": "83abc7efdc3e41f1",
   "lastOpenFiles": [
-    "Attachments/imgs/Pasted image 20231007213919.png",
-    "Attachments/imgs/Pasted image 20231007202420.png",
-    "读书/Hilary, 2020.md",
-    "Attachments/imgs/Pasted image 20231007201336.png",
-    "Attachments/imgs/Pasted image 20231007205351.png",
-    "Attachments/imgs/Pasted image 20231007205220.png",
-    "Attachments/imgs/Pasted image 20231007205153.png",
-    "Attachments/imgs/Pasted image 20231007204130.png",
-    "Attachments/imgs/Pasted image 20231007204040.png",
-    "Attachments/imgs/Pasted image 20231007204031.png",
-    "Attachments/imgs/Pasted image 20231007204019.png",
-    "Attachments/imgs/Pasted image 20231007204006.png",
-    "读文献/PINN前沿/Remco van der Meer (2020, jcam).md",
+    "读文献/PINN前沿/Enrui Zhang (2022, sci adv).md",
+    "Attachments/imgs/Pasted image 20231016214657.png",
+    "Attachments/imgs/Pasted image 20231016214404.png",
+    "Attachments/imgs/Pasted image 20231016214256.png",
     "读文献/PINN前沿/略读.md",
+    "读文献/PINN前沿/Remco van der Meer (2020, jcam).md",
+    "炼丹/PINN日志/论文进展/10-15请教南曦师兄问题.md",
+    "炼丹/PINN日志/论文进展/关于动态权重复现的疑惑.md",
+    "炼丹/PINN日志/论文进展/暑期小论文1.md",
+    "Attachments/imgs/Pasted image 20231015160547.png",
+    "Attachments/imgs/log 4.png",
+    "果壳/PRML/判别式分类器.md",
+    "Attachments/imgs/Pasted image 20231012102505.png",
+    "Attachments/imgs/Pasted image 20231012100409.png",
+    "Attachments/imgs/Pasted image 20231012100237.png",
+    "Attachments/imgs/Pasted image 20231012100119.png",
+    "Attachments/imgs/Pasted image 20231012100111.png",
+    "果壳/学术写作/Subheading.md",
+    "果壳/学术写作/Abstract.md",
+    "炼丹/PINN日志/论文进展/小论文实验结果的思考.md",
+    "果壳/学术写作",
+    "炼丹/PINN日志/论文进展/小论文method部分思路.md",
+    "炼丹/PINN日志/log_new.md",
+    "炼丹/PINN日志/实验日志/log-2023-07-12.md",
+    "炼丹/PINN日志/论文进展/小论文方程主干判断.md",
+    "炼丹/PINN日志/log_old.md",
+    "读书/Hilary, 2020.md",
     "读文献/可能用到的的文献.md",
     "读文献/PINN前沿/Untitled.md",
     "读文献/PINN前沿/精读.md",
@@ -251,19 +264,6 @@
     "读文献/PINN前沿/YongJi Wong (2023, arxiv).md",
     "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
     "读文献/PINN前沿/Yao Huang et al.(2022).md",
-    "读文献/PINN前沿/Sifan Wang (2021, jcp).md",
-    "读文献/PINN前沿/Zanardi et al. (2023, Nature Scientific Reports).md",
-    "读文献/阅读规划.md",
-    "diary/2023-06-11.md",
-    "diary/diary.md",
-    "2023-10-04.md",
-    "读文献/PINN前沿/Christopher J. Arthurs (2021, jcp).md",
-    "读文献/数学杂类/阅读规划-数学杂类.md",
-    "读书/Byrant, 2003 习题.md",
-    "读书/Bryant, 2003.md",
-    "读书/读书规划.md",
-    "读文献/频率准则/神经网络的简单偏好.md",
-    "读文献/频率准则/阅读规划-频率准则.md",
     "素材",
     "果壳/Academic Writing",
     "读文献/略读",
@@ -273,7 +273,6 @@
     "果壳/数值分析",
     "果壳/PRML",
     "果壳/algorithm",
-    "果壳",
     "读文献/频率准则/Untitled.canvas",
     "炼丹/PINN日志/Untitled.canvas",
     "Untitled.canvas"
