@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "016d6ef41177c165",
+        "id": "d20cd263b3a2b39b",
         "type": "tabs",
         "children": [
           {
-            "id": "83abc7efdc3e41f1",
+            "id": "78207f9cab751f72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读文献/PINN前沿/略读.md",
+                "file": "炼丹/PINN日志/论文进展/Klein方程调参过程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读文献/PINN前沿/略读.md",
+                "file": "炼丹/PINN日志/论文进展/Klein方程调参过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读文献/PINN前沿/略读.md",
+                "file": "炼丹/PINN日志/论文进展/Klein方程调参过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读文献/PINN前沿/略读.md"
+                "file": "炼丹/PINN日志/论文进展/Klein方程调参过程.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "读文献/PINN前沿/略读.md",
+                "file": "炼丹/PINN日志/论文进展/Klein方程调参过程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读文献/PINN前沿/略读.md"
+                "file": "炼丹/PINN日志/论文进展/Klein方程调参过程.md"
               }
             }
           }
@@ -225,45 +225,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91e055e41965ce2d",
+  "active": "78207f9cab751f72",
   "lastOpenFiles": [
-    "读文献/PINN前沿/Marwan Ait Haddou (2023, arxiv).md",
+    "Attachments/imgs/Pasted image 20231025103232.png",
+    "Attachments/imgs/Pasted image 20231025103122.png",
+    "Attachments/imgs/Pasted image 20231025000501.png",
+    "Attachments/imgs/Pasted image 20231024144854.png",
+    "Attachments/imgs/Pasted image 20231024134433.png",
+    "Attachments/imgs/Pasted image 20231024134349.png",
+    "Attachments/imgs/Pasted image 20231024122329.png",
+    "Attachments/imgs/Pasted image 20231024122108.png",
+    "炼丹/PINN日志/论文进展/小论文实验结果的思考.md",
+    "炼丹/PINN日志/论文进展/Klein方程调参过程.md",
+    "炼丹/PINN日志/论文进展/关于burgers方程调参过程.md",
+    "Attachments/imgs/Pasted image 20231023163303.png",
+    "Attachments/imgs/Pasted image 20231023114225.png",
+    "Attachments/imgs/Pasted image 20231023102559.png",
+    "炼丹/PINN日志/论文进展/小论文method重新规划思路.md",
+    "炼丹/PINN日志/论文进展/小论文method部分思路.md",
+    "炼丹/PINN日志/论文进展/暑期小论文1.md",
+    "炼丹/PINN日志/论文进展/小论文方程主干判断.md",
+    "炼丹/PINN日志/log_new.md",
+    "果壳/PRML/Untitled.md",
     "读文献/PINN前沿/略读.md",
+    "读文献/PINN前沿/Marwan Ait Haddou (2023, arxiv).md",
     "读文献/PINN前沿/Matthew Golden (2023, sci adv).md",
-    "Attachments/imgs/Pasted image 20231017224105.png",
     "读文献/PINN前沿/Enrui Zhang (2022, sci adv).md",
-    "Attachments/imgs/Pasted image 20231016214657.png",
-    "Attachments/imgs/Pasted image 20231016214404.png",
-    "Attachments/imgs/Pasted image 20231016214256.png",
     "读文献/PINN前沿/Remco van der Meer (2020, jcam).md",
     "炼丹/PINN日志/论文进展/10-15请教南曦师兄问题.md",
     "炼丹/PINN日志/论文进展/关于动态权重复现的疑惑.md",
-    "炼丹/PINN日志/论文进展/暑期小论文1.md",
-    "Attachments/imgs/Pasted image 20231015160547.png",
-    "Attachments/imgs/log 4.png",
     "果壳/PRML/判别式分类器.md",
-    "Attachments/imgs/Pasted image 20231012102505.png",
-    "Attachments/imgs/Pasted image 20231012100409.png",
-    "Attachments/imgs/Pasted image 20231012100237.png",
-    "Attachments/imgs/Pasted image 20231012100119.png",
     "果壳/学术写作/Subheading.md",
     "果壳/学术写作/Abstract.md",
-    "炼丹/PINN日志/论文进展/小论文实验结果的思考.md",
     "果壳/学术写作",
-    "炼丹/PINN日志/论文进展/小论文method部分思路.md",
-    "炼丹/PINN日志/log_new.md",
     "炼丹/PINN日志/实验日志/log-2023-07-12.md",
-    "炼丹/PINN日志/论文进展/小论文方程主干判断.md",
     "炼丹/PINN日志/log_old.md",
     "读书/Hilary, 2020.md",
     "读文献/可能用到的的文献.md",
     "读文献/PINN前沿/Untitled.md",
     "读文献/PINN前沿/精读.md",
-    "读文献/PINN前沿/Lei Yuan et al. (2022,jcp).md",
-    "读文献/PINN前沿/Vilar et al. (2023, Science Advances).md",
-    "读文献/PINN前沿/Xu Shengfeng et al.(2023).md",
-    "读文献/PINN前沿/YongJi Wong (2023, arxiv).md",
-    "读文献/PINN前沿/Dmitriy Tarkhov (2023, mdpi).md",
     "素材",
     "果壳/Academic Writing",
     "读文献/略读",
