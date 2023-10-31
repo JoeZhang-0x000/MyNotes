@@ -4,7 +4,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 91
   },
   "newFileLocation": "current",
   "attachmentFolderPath": "Attachments/imgs",
@@ -13,5 +13,6 @@
   "rightToLeft": false,
   "showLineNumber": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }
