@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "果壳/学术写作/Abstract.md",
+                "file": "果壳/卜算/DP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.50418853759766
   },
   "right": {
     "id": "d9980ebd529fe111",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "果壳/学术写作/Abstract.md",
+                "file": "果壳/卜算/DP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "果壳/学术写作/Abstract.md",
+                "file": "果壳/卜算/DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "果壳/学术写作/Abstract.md"
+                "file": "果壳/卜算/DP.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "果壳/学术写作/Abstract.md",
+                "file": "果壳/卜算/DP.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "果壳/学术写作/Abstract.md"
+                "file": "果壳/卜算/DP.md"
               }
             }
           }
@@ -213,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,45 +228,46 @@
   },
   "active": "3ccf8e0f8b6456a1",
   "lastOpenFiles": [
-    "diary/diary.md",
-    "果壳/学术写作/logic and flow.md",
-    "果壳/学术写作/Abstract.md",
-    "果壳/学术写作/Subheading.md",
     "读书/Hilary, 2020.md",
-    "炼丹/PINN日志/论文进展/关于动态权重复现的疑惑.md",
-    "炼丹/PINN日志/论文进展/关于burgers方程调参过程.md",
+    "果壳/卜算/DP.md",
+    "果壳/卜算/课时一.md",
+    "果壳/学术写作/Style.md",
+    "Attachments/imgs/Pasted image 20231115200135.png",
+    "Attachments/imgs/Pasted image 20231115200051.png",
+    "Attachments/imgs/Pasted image 20231115195613.png",
+    "Attachments/imgs/Pasted image 20231115195256.png",
+    "Attachments/imgs/Pasted image 20231115195237.png",
+    "Attachments/imgs/Pasted image 20231115193502.png",
+    "炼丹/PINN日志/论文进展/小论文实验结果的思考.md",
+    "炼丹/PINN日志/论文进展/小论文方程主干判断.md",
     "炼丹/PINN日志/论文进展/10-15请教南曦师兄问题.md",
+    "炼丹/PINN日志/论文进展/关于动态权重复现的疑惑.md",
+    "炼丹/PINN日志/论文进展/暑期小论文1.md",
+    "炼丹/PINN日志/论文进展/小论文method部分思路.md",
+    "炼丹/PINN日志/论文进展/PINN可解释性的思考.md",
+    "炼丹/PINN日志/论文进展/flow_2d实验结果.md",
     "炼丹/PINN日志/论文进展/Klein方程实验结果.md",
     "炼丹/PINN日志/论文进展/小论文method重新规划思路.md",
-    "炼丹/PINN日志/论文进展/小论文method部分思路.md",
+    "果壳/学术写作/Verbs.md",
+    "Attachments/imgs/Pasted image 20231112090023.png",
+    "果壳/学术写作/Subheading.md",
+    "炼丹/PINN日志/论文进展/关于burgers方程调参过程.md",
+    "Life/电影待看清单.md",
+    "Life/购物清单.md",
+    "Attachments/imgs/Pasted image 20231025233735.png",
+    "果壳/学术写作/Abstract.md",
+    "diary/diary.md",
+    "果壳/学术写作/logic and flow.md",
     "Attachments/imgs/Pasted image 20231031092752.png",
     "Attachments/imgs/Pasted image 20231031092516.png",
-    "Attachments/imgs/Pasted image 20231031090707.png",
-    "Attachments/imgs/Pasted image 20231031090544.png",
-    "Attachments/imgs/Pasted image 20231030235855.png",
-    "Attachments/imgs/Pasted image 20231030234841.png",
-    "Attachments/imgs/Pasted image 20231030234825.png",
-    "Attachments/imgs/Pasted image 20231030234656.png",
-    "Attachments/imgs/Pasted image 20231030234147.png",
-    "Attachments/imgs/Pasted image 20231030233927.png",
-    "炼丹/PINN日志/论文进展/暑期小论文1.md",
     "Attachments/pandoc-defaults.yaml",
     "Attachments/新建 Text Document.txt",
-    "炼丹/PINN日志/论文进展/小论文实验结果的思考.md",
     "炼丹/PINN日志/论文进展/Klein方程实验结果.html",
-    "炼丹/PINN日志/论文进展/小论文方程主干判断.md",
     "炼丹/PINN日志/log_new.md",
     "果壳/PRML/Untitled.md",
     "读文献/PINN前沿/略读.md",
     "读文献/PINN前沿/Marwan Ait Haddou (2023, arxiv).md",
-    "读文献/PINN前沿/Matthew Golden (2023, sci adv).md",
-    "读文献/PINN前沿/Enrui Zhang (2022, sci adv).md",
-    "读文献/PINN前沿/Remco van der Meer (2020, jcam).md",
-    "果壳/PRML/判别式分类器.md",
     "果壳/学术写作",
-    "炼丹/PINN日志/实验日志/log-2023-07-12.md",
-    "炼丹/PINN日志/log_old.md",
-    "读文献/可能用到的的文献.md",
     "素材",
     "果壳/Academic Writing",
     "读文献/略读",

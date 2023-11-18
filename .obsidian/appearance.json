@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "baseFontSize": 19,
+  "baseFontSize": 16,
   "textFontFamily": "Bookerly,霞鹜文楷",
   "enabledCssSnippets": [
     "img-grid",
